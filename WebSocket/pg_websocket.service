@@ -1,0 +1,15 @@
+[Unit]
+Description="pg_websocket"
+
+[Service]
+ExecStart=/usr/bin/node main.js
+WorkingDirectory=/root/pg_websocket
+Restart=always
+RestartSec=10
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=pg_websocket
+Environment=
+
+[Install]
+WantedBy=multi-user.target

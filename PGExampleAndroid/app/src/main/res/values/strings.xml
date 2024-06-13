@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PGExample</string>
+    <string name="pair_device">Pair Device</string>
+    <string name="trigger">Trigger</string>
+    <string name="display">Display</string>
+    <string name="visibility">Visibility</string>
+    <string name="profile">Profile</string>
+    <string name="orientation">Orientation</string>
+</resources>

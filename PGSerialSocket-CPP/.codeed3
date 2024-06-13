@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appconfig>
+  <run_config name="CSocket" execute="/Users/jack/Desktop/CSocket/build/CSocket" work_dir="/Users/jack/Desktop/CSocket" arguments="" post_build="1" save_all="1" parallel="0" clear_history="1"/>
+  <cmake cmake_path="/usr/local/bin/cmake" cache_args="" cache_config="Debug" cache_path="build" clean_target="clean" build_target="all" build_config="Debug" build_parallel="16" verbose="0"/>
+  <clang compile_args="--driver-mode=g++;-mmacosx-version-min=10.15;c++-header;-I/usr/local/include;-stdlib=libc++" match_completion="0" fixit_completion="1" not_accessible_completion="1" not_available_completion="1" format_auto="1" format_type="0" enable_indexer="0" show_args="0" enable_serialize="0" diagnostic_list="0" diagnostic_auto="1" precompiled_header="precompiled.h" resource_dir="" spotlight_count="64" cursor_annotation="0" diagnostic_annotation="1"/>
+  <javascript nodejs_path="" tern_path="" npm_path=""/>
+  <python python_path=""/>
+  <editor grammer="1" visible_hide_files="0" workspace_path="/Users/jack/Desktop/" resource_path="resource.wxrc" lsp_java="" lsp_cs=""/>
+</appconfig>
